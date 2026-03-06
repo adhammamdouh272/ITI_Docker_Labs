@@ -1,0 +1,13 @@
+services:
+  nginx_proxy:
+    hostname: nginx_proxy
+    image: nginx:alpine
+    restart: always
+    ports:
+      - 80:80
+  flask_app:
+    hostname: flask_app
+    image: localhost:4000/iti-flask-lab2:latest
+    restart: always 
+    ports:
+      - 8080:5000
