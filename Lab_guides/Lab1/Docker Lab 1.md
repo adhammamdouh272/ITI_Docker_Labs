@@ -3,7 +3,7 @@ Name: Adham Mamdouh El-Sherbini
 
 ## Github Account:
 
-![[Screenshots/Lab1/7.png]]
+![[../../Screenshots/Lab1/7.png]]
 ## Running Nginx container:
 
 ![[Screenshots/Lab1/1.png]]
